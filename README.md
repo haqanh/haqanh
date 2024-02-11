@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anh</h1>
-<h3 align="center">I am an aspiring Data Analyst, majoring in Business Analytics with specialization. in Machine Learning and Financial Analytics at the National University of Singapore (NUS).</h3>
+<h2 align="center">Hello 👋, I am Anh</h1>
+<h3 align="center">Welcome to my Github :) I am an aspiring Data Analyst, majoring in Business Analytics with specializations in Machine Learning and Financial Analytics at the National University of Singapore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haqanh&label=Profile%20views&color=0e75b6&style=flat" alt="haqanh" /> </p>
 
